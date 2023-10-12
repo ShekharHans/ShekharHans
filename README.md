@@ -29,4 +29,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ShekharHans&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![An image of @shekharhans's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shekharhans)](https://holopin.io/@shekharhans)
+
+
